@@ -1,0 +1,36 @@
+D:\Unreal projects\Johanna.Johansson_GP3_Home\GP3_Team03\Intermediate\Build\Win64\UE4Editor\Development\GP3_Team03\Definitions.GP3_Team03.h
+D:\Unreal projects\Johanna.Johansson_GP3_Home\GP3_Team03\Source\GP3_Team03\Public\Player/GP3PlayerPawn.h
+D:\Unreal projects\Johanna.Johansson_GP3_Home\GP3_Team03\Source\GP3_Team03\Public\Player\GP3DashComponent.h
+D:\Unreal projects\Johanna.Johansson_GP3_Home\GP3_Team03\Intermediate\Build\Win64\UE4Editor\Inc\GP3_Team03\GP3DashComponent.generated.h
+D:\Unreal projects\Johanna.Johansson_GP3_Home\GP3_Team03\Intermediate\Build\Win64\UE4Editor\Inc\GP3_Team03\GP3PlayerPawn.generated.h
+D:\Unreal projects\Johanna.Johansson_GP3_Home\GP3_Team03\Source\GP3_Team03\Public\AI/EnemyBaseCharacter/GP3_ChargeEnemyCharacter.h
+D:\Unreal projects\Johanna.Johansson_GP3_Home\GP3_Team03\Source\GP3_Team03\Public\AI/EnemyBaseCharacter/GP3_AI_BaseCharacter.h
+E:\EpicGames\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+E:\EpicGames\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+E:\EpicGames\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+E:\EpicGames\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+E:\EpicGames\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+E:\EpicGames\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+D:\Unreal projects\Johanna.Johansson_GP3_Home\GP3_Team03\Source\GP3_Team03\Public\Weapons/WeaponBase.h
+E:\EpicGames\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/DataTable.h
+E:\EpicGames\UE_4.27\Engine\Source\Runtime\Engine\Public\DataTableUtils.h
+E:\EpicGames\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DataTable.generated.h
+D:\Unreal projects\Johanna.Johansson_GP3_Home\GP3_Team03\Intermediate\Build\Win64\UE4Editor\Inc\GP3_Team03\WeaponBase.generated.h
+D:\Unreal projects\Johanna.Johansson_GP3_Home\GP3_Team03\Intermediate\Build\Win64\UE4Editor\Inc\GP3_Team03\GP3_AI_BaseCharacter.generated.h
+D:\Unreal projects\Johanna.Johansson_GP3_Home\GP3_Team03\Intermediate\Build\Win64\UE4Editor\Inc\GP3_Team03\GP3_ChargeEnemyCharacter.generated.h
+E:\EpicGames\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/CapsuleComponent.h
+E:\EpicGames\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+E:\EpicGames\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+E:\EpicGames\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CapsuleComponent.generated.h
+D:\Unreal projects\Johanna.Johansson_GP3_Home\GP3_Team03\Source\GP3_Team03\Public\Player/GP3PlayerSpringArmComponent.h
+E:\EpicGames\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/SpringArmComponent.h
+E:\EpicGames\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SpringArmComponent.generated.h
+D:\Unreal projects\Johanna.Johansson_GP3_Home\GP3_Team03\Source\GP3_Team03\Public\Player/GP3PlayerCameraComponent.h
+E:\EpicGames\UE_4.27\Engine\Source\Runtime\Engine\Classes\Camera/CameraComponent.h
+E:\EpicGames\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraComponent.generated.h
+D:\Unreal projects\Johanna.Johansson_GP3_Home\GP3_Team03\Intermediate\Build\Win64\UE4Editor\Inc\GP3_Team03\GP3PlayerCameraComponent.generated.h
+D:\Unreal projects\Johanna.Johansson_GP3_Home\GP3_Team03\Intermediate\Build\Win64\UE4Editor\Inc\GP3_Team03\GP3PlayerSpringArmComponent.generated.h
+D:\Unreal projects\Johanna.Johansson_GP3_Home\GP3_Team03\Source\GP3_Team03\Public\Player/GP3ShootComponent.h
+D:\Unreal projects\Johanna.Johansson_GP3_Home\GP3_Team03\Intermediate\Build\Win64\UE4Editor\Inc\GP3_Team03\GP3ShootComponent.generated.h
+D:\Unreal projects\Johanna.Johansson_GP3_Home\GP3_Team03\Source\GP3_Team03\Public\Player/GP3WASDMovementComponent.h
+D:\Unreal projects\Johanna.Johansson_GP3_Home\GP3_Team03\Intermediate\Build\Win64\UE4Editor\Inc\GP3_Team03\GP3WASDMovementComponent.generated.h

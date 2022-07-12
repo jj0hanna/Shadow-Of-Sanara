@@ -1,0 +1,5 @@
+E:\EpicGames\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+E:\EpicGames\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+E:\EpicGames\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/TextProperty.h
+D:\Unreal projects\Johanna.Johansson_GP3_Home\GP3_Team03\Plugins\FMODStudio\Source\FMODStudio/Classes/FMODSettings.h
+D:\Unreal projects\Johanna.Johansson_GP3_Home\GP3_Team03\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudio\FMODSettings.generated.h

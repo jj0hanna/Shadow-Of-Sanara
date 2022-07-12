@@ -1,0 +1,23 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-GP3_Team03-2538.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal projects\Johanna.Johansson_GP3_Home\GP3_Team03\Intermediate\Build\Win64\GP3_Team03Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Unreal projects\Johanna.Johansson_GP3_Home\GP3_Team03\Intermediate\Build\Win64\UE4Editor\Development\GP3_Team03\AAICEnemy.cpp.obj"
+"D:\Unreal projects\Johanna.Johansson_GP3_Home\GP3_Team03\Intermediate\Build\Win64\UE4Editor\Development\GP3_Team03\GP3PlayerPawn.cpp.obj"
+"D:\Unreal projects\Johanna.Johansson_GP3_Home\GP3_Team03\Intermediate\Build\Win64\UE4Editor\Development\GP3_Team03\PlayerPawnMovementComponent.cpp.obj"
+"D:\Unreal projects\Johanna.Johansson_GP3_Home\GP3_Team03\Intermediate\Build\Win64\UE4Editor\Development\GP3_Team03\WeaponBase.cpp.obj"
+"D:\Unreal projects\Johanna.Johansson_GP3_Home\GP3_Team03\Intermediate\Build\Win64\UE4Editor\Development\GP3_Team03\GP3_Team03.cpp.obj"
+"D:\Unreal projects\Johanna.Johansson_GP3_Home\GP3_Team03\Intermediate\Build\Win64\UE4Editor\Development\GP3_Team03\GP3_Team03GameModeBase.cpp.obj"
+"D:\Unreal projects\Johanna.Johansson_GP3_Home\GP3_Team03\Intermediate\Build\Win64\UE4Editor\Development\GP3_Team03\AAICEnemy.gen.cpp.obj"
+"D:\Unreal projects\Johanna.Johansson_GP3_Home\GP3_Team03\Intermediate\Build\Win64\UE4Editor\Development\GP3_Team03\GP3PlayerPawn.gen.cpp.obj"
+"D:\Unreal projects\Johanna.Johansson_GP3_Home\GP3_Team03\Intermediate\Build\Win64\UE4Editor\Development\GP3_Team03\GP3_Team03.init.gen.cpp.obj"
+"D:\Unreal projects\Johanna.Johansson_GP3_Home\GP3_Team03\Intermediate\Build\Win64\UE4Editor\Development\GP3_Team03\GP3_Team03GameModeBase.gen.cpp.obj"
+"D:\Unreal projects\Johanna.Johansson_GP3_Home\GP3_Team03\Intermediate\Build\Win64\UE4Editor\Development\GP3_Team03\PlayerPawnMovementComponent.gen.cpp.obj"
+"D:\Unreal projects\Johanna.Johansson_GP3_Home\GP3_Team03\Intermediate\Build\Win64\UE4Editor\Development\GP3_Team03\WeaponBase.gen.cpp.obj"
+"D:\Unreal projects\Johanna.Johansson_GP3_Home\GP3_Team03\Intermediate\Build\Win64\UE4Editor\Development\GP3_Team03\Default.rc2.res"
+/OUT:"D:\Unreal projects\Johanna.Johansson_GP3_Home\GP3_Team03\Intermediate\Build\Win64\UE4Editor\Development\GP3_Team03\UE4Editor-GP3_Team03-2538.lib"

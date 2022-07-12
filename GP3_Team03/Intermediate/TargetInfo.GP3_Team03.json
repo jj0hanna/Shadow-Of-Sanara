@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "GP3_Team03",
+			"Path": "D:\\Unreal projects\\Johanna.Johansson_GP3_Home\\GP3_Team03\\Source\\GP3_Team03.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GP3_Team03Editor",
+			"Path": "D:\\Unreal projects\\Johanna.Johansson_GP3_Home\\GP3_Team03\\Source\\GP3_Team03Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

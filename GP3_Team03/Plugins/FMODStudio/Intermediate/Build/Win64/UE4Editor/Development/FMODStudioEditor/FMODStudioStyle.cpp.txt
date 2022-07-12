@@ -1,0 +1,13 @@
+D:\Unreal projects\Johanna.Johansson_GP3_Home\GP3_Team03\Plugins\FMODStudio\Source\FMODStudioEditor\Private\FMODStudioStyle.h
+E:\EpicGames\UE_4.27\Engine\Source\Editor\EditorStyle/Public/EditorStyleSet.h
+E:\EpicGames\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Styling/StyleDefaults.h
+E:\EpicGames\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/Paths.h
+E:\EpicGames\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateNoResource.h
+E:\EpicGames\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Styling/ISlateStyle.h
+E:\EpicGames\UE_4.27\Engine\Source\Runtime\SlateCore/Public/Styling/SlateStyle.h
+E:\EpicGames\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBorderBrush.h
+E:\EpicGames\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBoxBrush.h
+E:\EpicGames\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateColorBrush.h
+E:\EpicGames\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateImageBrush.h
+E:\EpicGames\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateDynamicImageBrush.h
+E:\EpicGames\UE_4.27\Engine\Source\Editor\EditorStyle/Public/Interfaces/IEditorStyleModule.h

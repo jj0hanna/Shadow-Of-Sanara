@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal projects\\Johanna.Johansson_GP3_Home\\GP3_Team03\\Source\\GP3_Team03\\GP3_Team03.Build.cs",
+		"D:\\Unreal projects\\Johanna.Johansson_GP3_Home\\GP3_Team03\\Plugins\\FMODStudio\\Source\\FMODStudio\\FMODStudio.Build.cs",
+		"D:\\Unreal projects\\Johanna.Johansson_GP3_Home\\GP3_Team03\\Plugins\\FMODStudio\\Source\\FMODStudioEditor\\FMODStudioEditor.Build.cs",
+		"D:\\Unreal projects\\Johanna.Johansson_GP3_Home\\GP3_Team03\\Source\\GP3_Team03.Target.cs",
+		"D:\\Unreal projects\\Johanna.Johansson_GP3_Home\\GP3_Team03\\Source\\GP3_Team03Editor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

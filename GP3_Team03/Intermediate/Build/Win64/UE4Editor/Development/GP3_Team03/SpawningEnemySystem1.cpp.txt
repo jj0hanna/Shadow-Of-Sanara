@@ -1,0 +1,44 @@
+D:\Unreal projects\Johanna.Johansson_GP3_Home\GP3_Team03\Intermediate\Build\Win64\UE4Editor\Development\GP3_Team03\Definitions.GP3_Team03.h
+D:\Unreal projects\Johanna.Johansson_GP3_Home\GP3_Team03\Source\GP3_Team03\Public\AI/SpawningEnemySystem1.h
+D:\Unreal projects\Johanna.Johansson_GP3_Home\GP3_Team03\Intermediate\Build\Win64\UE4Editor\Inc\GP3_Team03\SpawningEnemySystem1.generated.h
+E:\EpicGames\UE_4.27\Engine\Source\Runtime\NavigationSystem\Public\NavigationSystem.h
+E:\EpicGames\UE_4.27\Engine\Source\Runtime\NavigationSystem\Public\NavFilters/NavigationQueryFilter.h
+E:\EpicGames\UE_4.27\Engine\Source\Runtime\NavigationSystem\Public\NavAreas/NavArea.h
+E:\EpicGames\UE_4.27\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavAreaBase.h
+E:\EpicGames\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavAreaBase.generated.h
+E:\EpicGames\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\NavigationSystem\NavArea.generated.h
+E:\EpicGames\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\NavigationSystem\NavigationQueryFilter.generated.h
+E:\EpicGames\UE_4.27\Engine\Source\Runtime\NavigationSystem\Public\NavigationSystemTypes.h
+E:\EpicGames\UE_4.27\Engine\Source\Runtime\Engine\Classes\AI/NavigationSystemConfig.h
+E:\EpicGames\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavigationSystemConfig.generated.h
+E:\EpicGames\UE_4.27\Engine\Source\Runtime\NavigationSystem\Public\NavigationData.h
+E:\EpicGames\UE_4.27\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavigationDataInterface.h
+E:\EpicGames\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavigationDataInterface.generated.h
+E:\EpicGames\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\NavigationSystem\NavigationData.generated.h
+E:\EpicGames\UE_4.27\Engine\Source\Runtime\NavigationSystem\Public\NavigationOctree.h
+E:\EpicGames\UE_4.27\Engine\Source\Runtime\NavigationSystem\Public\NavigationOctreeController.h
+E:\EpicGames\UE_4.27\Engine\Source\Runtime\NavigationSystem\Public\NavigationDirtyAreasController.h
+E:\EpicGames\UE_4.27\Engine\Source\Runtime\Core\Public\Math/MovingWindowAverageFast.h
+E:\EpicGames\UE_4.27\Engine\Source\Editor\UnrealEd\Public\UnrealEdMisc.h
+E:\EpicGames\UE_4.27\Engine\Source\Editor\UnrealEd\Public\Editor.h
+E:\EpicGames\UE_4.27\Engine\Source\Editor\UnrealEd\Classes\Editor/EditorEngine.h
+E:\EpicGames\UE_4.27\Engine\Source\Editor\UnrealEd\Classes\Editor/Transactor.h
+E:\EpicGames\UE_4.27\Engine\Source\Runtime\Core\Public\Serialization/ArchiveSerializedPropertyChain.h
+E:\EpicGames\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\Transactor.generated.h
+E:\EpicGames\UE_4.27\Engine\Source\Editor\UnrealEd\Classes\Settings/LevelEditorViewportSettings.h
+E:\EpicGames\UE_4.27\Engine\Source\Editor\UnrealEd\Public\Viewports.h
+E:\EpicGames\UE_4.27\Engine\Source\Editor\UnrealEd\Classes\Editor/UnrealEdTypes.h
+E:\EpicGames\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\UnrealEdTypes.generated.h
+E:\EpicGames\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\LevelEditorViewportSettings.generated.h
+E:\EpicGames\UE_4.27\Engine\Source\Developer\TargetPlatform\Public\Interfaces/ITargetPlatform.h
+E:\EpicGames\UE_4.27\Engine\Source\Developer\TargetPlatform\Public\Interfaces/ITargetDevice.h
+E:\EpicGames\UE_4.27\Engine\Source\Developer\TargetPlatform\Public\Interfaces/TargetDeviceId.h
+E:\EpicGames\UE_4.27\Engine\Source\Developer\TargetPlatform\Public\Interfaces/ITargetPlatformManagerModule.h
+E:\EpicGames\UE_4.27\Engine\Source\Editor\UnrealEd\Public\PlayInEditorDataTypes.h
+E:\EpicGames\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\PlayInEditorDataTypes.generated.h
+E:\EpicGames\UE_4.27\Engine\Source\Editor\EditorSubsystem\Public\EditorSubsystem.h
+E:\EpicGames\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\EditorSubsystem\EditorSubsystem.generated.h
+E:\EpicGames\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\EditorEngine.generated.h
+E:\EpicGames\UE_4.27\Engine\Source\Editor\UnrealEd\Public\Subsystems/ImportSubsystem.h
+E:\EpicGames\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\ImportSubsystem.generated.h
+E:\EpicGames\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\NavigationSystem\NavigationSystem.generated.h

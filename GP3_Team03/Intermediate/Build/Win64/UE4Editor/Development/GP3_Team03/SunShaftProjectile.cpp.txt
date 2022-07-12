@@ -1,0 +1,11 @@
+D:\Unreal projects\Johanna.Johansson_GP3_Home\GP3_Team03\Intermediate\Build\Win64\UE4Editor\Development\GP3_Team03\Definitions.GP3_Team03.h
+D:\Unreal projects\Johanna.Johansson_GP3_Home\GP3_Team03\Source\GP3_Team03\Public\Weapons/SunShaftProjectile.h
+E:\EpicGames\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/SphereComponent.h
+E:\EpicGames\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+E:\EpicGames\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+E:\EpicGames\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SphereComponent.generated.h
+E:\EpicGames\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/ProjectileMovementComponent.h
+E:\EpicGames\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
+E:\EpicGames\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MovementComponent.generated.h
+E:\EpicGames\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ProjectileMovementComponent.generated.h
+D:\Unreal projects\Johanna.Johansson_GP3_Home\GP3_Team03\Intermediate\Build\Win64\UE4Editor\Inc\GP3_Team03\SunShaftProjectile.generated.h

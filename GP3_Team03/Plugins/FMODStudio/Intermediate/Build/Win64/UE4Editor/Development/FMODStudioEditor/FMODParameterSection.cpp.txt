@@ -1,0 +1,5 @@
+D:\Unreal projects\Johanna.Johansson_GP3_Home\GP3_Team03\Plugins\FMODStudio\Source\FMODStudioEditor\Private\Sequencer\FMODParameterSection.h
+E:\EpicGames\UE_4.27\Engine\Source\Runtime\MovieSceneTracks\Public\Sections/MovieSceneParameterSection.h
+E:\EpicGames\UE_4.27\Engine\Source\Runtime\MovieScene\Public\Channels/MovieSceneBoolChannel.h
+E:\EpicGames\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneBoolChannel.generated.h
+E:\EpicGames\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieSceneTracks\MovieSceneParameterSection.generated.h
